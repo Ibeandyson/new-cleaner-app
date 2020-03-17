@@ -1,0 +1,38 @@
+
+
+
+@media (max-width: 991px) {
+  
+}
+.card{
+  height: 100%;
+}
+.dashboard{
+padding-top: 15%;
+}
+.content {
+  max-width: 500px;
+  margin: auto;
+  padding-top: 10%;
+}
+.contentMessage{
+  max-width: 500px;
+  margin: auto;
+  padding-top: 5%;
+}
+.contentRegister{
+  max-width: 500px;
+  margin: auto;
+  padding-top: 2%;
+}
+.contentLogin{
+  max-width: 500px;
+  margin: auto;
+  padding-top: 13%;
+}
+.contentregistersuccuss{
+  max-width: 500px;
+  margin: auto;
+  padding-top: 20%;
+ 
+}
